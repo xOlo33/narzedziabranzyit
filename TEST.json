@@ -1,0 +1,12 @@
+{
+    "imię": "Kamil",
+    "nazwisko": "Nikodem",
+    "wiek": 24,
+    "zawód": "Sprzedawca",
+    "adres": {
+        "ulica": "Widok 12",
+        "miasto": "Legnica",
+        "kod_pocztowy": "28-400"
+    },
+    "hobby": ["sport", "wędkarstwo", "muzyka"]
+}
