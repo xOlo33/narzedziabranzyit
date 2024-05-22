@@ -1,0 +1,16 @@
+<persona>
+    <imie>Kamil</imie>
+    <nazwisko>Nikodem</nazwisko>
+    <wiek>24</wiek>
+    <zawod>Sprzedawca</zawod>
+    <adres>
+        <ulica>Widok 12</ulica>
+        <miasto>Legnica</miasto>
+        <kod_pocztowy>28-400</kod_pocztowy>
+    </adres>
+    <hobby>
+        <hobby1>sport</hobby1>
+        <hobby2>wędkarstwo</hobby2>
+        <hobby3>muzyka</hobby3>
+    </hobby>
+</persona>
